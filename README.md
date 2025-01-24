@@ -5,12 +5,12 @@
 This project is a personal webpage developed as part of the Human-Computer Interaction (HCI) Lab Activity 1. The webpage serves as an introduction to the developer, Adriaan M. Dimate, providing insights into his background, interests, likes, dislikes, favorite foods, and preferred songs. The live version of the site is accessible at [https://dimatehciact1lab.netlify.app/](https://dimatehciact1lab.netlify.app/).
 
 ## Repository Structure
-main
-├── index.html # Main HTML file structuring the webpage content 
-├── deco.css # CSS file for styling the webpage 
-├── javasuck.js # JavaScript file for interactivity 
-├── 1.jpg # Image asset (A profile image) 
-├── background-about.jpg # Background image for the "About Me" section
+main   
+├── index.html # Main HTML file structuring the webpage content    
+├── deco.css # CSS file for styling the webpage     
+├── javasuck.js # JavaScript file for interactivity     
+├── 1.jpg # Image asset (A profile image)     
+├── background-about.jpg # Background image for the "About Me" section    
 
 
 ## File Descriptions
