@@ -1,3 +1,5 @@
+Credits to ChatGPT for creating this summarized documentation.
+
 # Human-Computer Interaction Lab Activity 1
 
 ## Project Overview
