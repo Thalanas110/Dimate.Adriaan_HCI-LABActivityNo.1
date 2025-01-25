@@ -9,7 +9,7 @@ main
 ├── index.html   
 ├── deco.css    
 ├── javasuck.js     
-├── 1.jpg
+├── 1.jpg    
 ├── bgimg1.jpg    
 
 
