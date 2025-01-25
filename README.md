@@ -6,11 +6,11 @@ This project is a personal webpage developed as part of the Human-Computer Inter
 
 ## Repository Structure
 main   
-├── index.html # Main HTML file structuring the webpage content    
-├── deco.css # CSS file for styling the webpage     
-├── javasuck.js # JavaScript file for interactivity     
-├── 1.jpg # Image asset (A profile image)     
-├── background-about.jpg # Background image for the "About Me" section    
+├── index.html   
+├── deco.css    
+├── javasuck.js     
+├── 1.jpg
+├── bgimg1.jpg    
 
 
 ## File Descriptions
@@ -32,14 +32,14 @@ This file applies styles to the webpage, ensuring a cohesive and aesthetically p
 - Layouts
 - Responsiveness
 
-These styles enhance the user experience across different devices.
+These styles enhance the user experience across different devices, such as in the mobile department.
 
 ### javasuck.js
 The JavaScript file is intended for interactive functionalities. However, it appears minimal or empty in its current state. Future enhancements could include adding interactive features to improve user engagement.
 
 ### Images
-- **1.jpg**: Image file used within the webpage, possibly as a profile picture or decorative element.
-- **background-about.jpg**: Background image for the "About Me" section, adding visual context to the content.
+- **1.jpg**: An image file containing the user's post-graduation image.
+- **bgimg1**: Background image for the "About Me" section, adding visual context to the content.
 
 ## Development Considerations
 
